@@ -1,4 +1,4 @@
-This repository contains the files used for the tests displayed in https://shorturl.at/7X2rl, and in "OMANN.pdf". 
+This repository contains the files used for the tests displayed in this colab[https://colab.research.google.com/drive/1mR_kNssSrOKpJYGkvvAFrs5DftXmeAaz?usp=sharing], and in "OMANN.pdf". 
 
 
 Partial credits for the original Git Re_Basin implementetion to [themrzmaster](https://github.com/themrzmaster) and to https://github.com/samuela/git-re-basin .
