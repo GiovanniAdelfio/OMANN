@@ -18,3 +18,5 @@ The repository contains also, in RESNET, files created in a failed attempt to im
 
 Note : the data and tests displayed on the Colab were run locally due to gpu limitations, re-running them on Colab might results in minor incompabilities.
 
+---
+*Author: Giovanni Adelfio, 15/09/2025*
