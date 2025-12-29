@@ -8,7 +8,7 @@ This project aims to extend the GIT Re-Basin framework for Neural Networks align
 
 The results are displayed in [colab](https://colab.research.google.com/drive/1mR_kNssSrOKpJYGkvvAFrs5DftXmeAaz?usp=sharing).
 
-A concise and theoretical explaination is available in and in ![OMANN]("OMANN.PDF"). 
+A concise and theoretical explaination is available in and in ![OMANN](OMANN.pdf). 
 
 
 Partial credits for the original [Git Re_Basin](https://github.com/samuela/git-re-basin) implementetion to [themrzmaster](https://github.com/themrzmaster).
